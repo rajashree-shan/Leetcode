@@ -7,3 +7,4 @@ class Solution:
             counts[s[i]]=1+counts.get(s[i],0)
             countt[t[i]]=1+countt.get(t[i],0)
         return counts==countt
+# return Counter(s)==Counter(t)
