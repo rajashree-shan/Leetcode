@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/rajashree-shan/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/rajashree-shan/Leetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/rajashree-shan/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rajashree-shan/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/rajashree-shan/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/rajashree-shan/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rajashree-shan/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rajashree-shan/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
