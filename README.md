@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajashree-shan/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/rajashree-shan/Leetcode/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rajashree-shan/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/rajashree-shan/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/rajashree-shan/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/rajashree-shan/Leetcode/tree/master/0338-counting-bits) |
@@ -88,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/rajashree-shan/Leetcode/tree/master/0338-counting-bits) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rajashree-shan/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rajashree-shan/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
