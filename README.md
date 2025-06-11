@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rajashree-shan/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rajashree-shan/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/rajashree-shan/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/rajashree-shan/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rajashree-shan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/rajashree-shan/Leetcode/tree/master/0948-sort-an-array) |
 ## Two Pointers
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rajashree-shan/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rajashree-shan/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rajashree-shan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/rajashree-shan/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rajashree-shan/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rajashree-shan/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rajashree-shan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/rajashree-shan/Leetcode/tree/master/0948-sort-an-array) |
 ## Counting
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rajashree-shan/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/rajashree-shan/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rajashree-shan/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/rajashree-shan/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rajashree-shan/Leetcode/tree/master/0338-counting-bits) |
 ## Dynamic Programming
 |  |
@@ -96,8 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rajashree-shan/Leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/rajashree-shan/Leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rajashree-shan/Leetcode/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rajashree-shan/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
