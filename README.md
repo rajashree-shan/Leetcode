@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajashree-shan/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/rajashree-shan/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/rajashree-shan/Leetcode/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/rajashree-shan/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/rajashree-shan/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/rajashree-shan/Leetcode/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
