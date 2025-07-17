@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajashree-shan/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/rajashree-shan/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/rajashree-shan/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rajashree-shan/Leetcode/tree/master/0125-valid-palindrome) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajashree-shan/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/rajashree-shan/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rajashree-shan/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rajashree-shan/Leetcode/tree/master/0268-missing-number) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rajashree-shan/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajashree-shan/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
