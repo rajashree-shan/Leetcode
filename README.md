@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rajashree-shan/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rajashree-shan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajashree-shan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/rajashree-shan/Leetcode/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rajashree-shan/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rajashree-shan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajashree-shan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/rajashree-shan/Leetcode/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajashree-shan/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rajashree-shan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajashree-shan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/rajashree-shan/Leetcode/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajashree-shan/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajashree-shan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/rajashree-shan/Leetcode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
