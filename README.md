@@ -244,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rajashree-shan/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajashree-shan/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/rajashree-shan/Leetcode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
