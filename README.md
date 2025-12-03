@@ -255,5 +255,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/rajashree-shan/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/rajashree-shan/Leetcode/tree/master/0197-rising-temperature) |
 | [1148-article-views-i](https://github.com/rajashree-shan/Leetcode/tree/master/1148-article-views-i) |
+| [1661-average-time-of-process-per-machine](https://github.com/rajashree-shan/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1757-recyclable-and-low-fat-products](https://github.com/rajashree-shan/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
