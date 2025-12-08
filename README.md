@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rajashree-shan/Leetcode/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/rajashree-shan/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/rajashree-shan/Leetcode/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/rajashree-shan/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajashree-shan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rajashree-shan/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/rajashree-shan/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rajashree-shan/Leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/rajashree-shan/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/rajashree-shan/Leetcode/tree/master/0070-climbing-stairs) |
+| [0227-basic-calculator-ii](https://github.com/rajashree-shan/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/rajashree-shan/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/rajashree-shan/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Simulation
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajashree-shan/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0227-basic-calculator-ii](https://github.com/rajashree-shan/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rajashree-shan/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
