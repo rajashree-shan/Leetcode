@@ -276,4 +276,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/rajashree-shan/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/rajashree-shan/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/rajashree-shan/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+| [3570-find-books-with-no-available-copies](https://github.com/rajashree-shan/Leetcode/tree/master/3570-find-books-with-no-available-copies) |
 <!---LeetCode Topics End-->
