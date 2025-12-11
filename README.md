@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/rajashree-shan/Leetcode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/rajashree-shan/Leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/rajashree-shan/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1789-primary-department-for-each-employee](https://github.com/rajashree-shan/Leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/rajashree-shan/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [3570-find-books-with-no-available-copies](https://github.com/rajashree-shan/Leetcode/tree/master/3570-find-books-with-no-available-copies) |
 ## Design
