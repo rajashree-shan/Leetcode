@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rajashree-shan/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/rajashree-shan/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/rajashree-shan/Leetcode/tree/master/0791-custom-sort-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajashree-shan/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rajashree-shan/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Trie
 |  |
@@ -205,11 +206,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rajashree-shan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/rajashree-shan/Leetcode/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/rajashree-shan/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajashree-shan/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajashree-shan/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0227-basic-calculator-ii](https://github.com/rajashree-shan/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajashree-shan/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rajashree-shan/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
