@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/rajashree-shan/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/rajashree-shan/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/rajashree-shan/Leetcode/tree/master/1789-primary-department-for-each-employee) |
+| [1934-confirmation-rate](https://github.com/rajashree-shan/Leetcode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/rajashree-shan/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [3570-find-books-with-no-available-copies](https://github.com/rajashree-shan/Leetcode/tree/master/3570-find-books-with-no-available-copies) |
 ## Design
