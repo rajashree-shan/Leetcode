@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/rajashree-shan/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/rajashree-shan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/rajashree-shan/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0415-add-strings](https://github.com/rajashree-shan/Leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajashree-shan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rajashree-shan/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/rajashree-shan/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -188,11 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/rajashree-shan/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/rajashree-shan/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/rajashree-shan/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/rajashree-shan/Leetcode/tree/master/0415-add-strings) |
 | [0973-k-closest-points-to-origin](https://github.com/rajashree-shan/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rajashree-shan/Leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/rajashree-shan/Leetcode/tree/master/0415-add-strings) |
 | [2043-simple-bank-system](https://github.com/rajashree-shan/Leetcode/tree/master/2043-simple-bank-system) |
 ## Binary Search
 |  |
