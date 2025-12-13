@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajashree-shan/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rajashree-shan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajashree-shan/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0766-toeplitz-matrix](https://github.com/rajashree-shan/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0948-sort-an-array](https://github.com/rajashree-shan/Leetcode/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/rajashree-shan/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajashree-shan/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajashree-shan/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0766-toeplitz-matrix](https://github.com/rajashree-shan/Leetcode/tree/master/0766-toeplitz-matrix) |
 ## Backtracking
 |  |
 | ------- |
