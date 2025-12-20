@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/rajashree-shan/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rajashree-shan/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/rajashree-shan/Leetcode/tree/master/0791-custom-sort-string) |
+| [0824-goat-latin](https://github.com/rajashree-shan/Leetcode/tree/master/0824-goat-latin) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajashree-shan/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajashree-shan/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rajashree-shan/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
