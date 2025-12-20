@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/rajashree-shan/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/rajashree-shan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/rajashree-shan/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/rajashree-shan/Leetcode/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/rajashree-shan/Leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajashree-shan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rajashree-shan/Leetcode/tree/master/0567-permutation-in-string) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajashree-shan/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0227-basic-calculator-ii](https://github.com/rajashree-shan/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/rajashree-shan/Leetcode/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajashree-shan/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajashree-shan/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rajashree-shan/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rajashree-shan/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/rajashree-shan/Leetcode/tree/master/0394-decode-string) |
 ## Memoization
 |  |
 | ------- |
