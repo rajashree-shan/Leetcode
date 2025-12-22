@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rajashree-shan/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/rajashree-shan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajashree-shan/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0523-continuous-subarray-sum](https://github.com/rajashree-shan/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rajashree-shan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajashree-shan/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/rajashree-shan/Leetcode/tree/master/0766-toeplitz-matrix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rajashree-shan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/rajashree-shan/Leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajashree-shan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0523-continuous-subarray-sum](https://github.com/rajashree-shan/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rajashree-shan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rajashree-shan/Leetcode/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/rajashree-shan/Leetcode/tree/master/0791-custom-sort-string) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rajashree-shan/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/rajashree-shan/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rajashree-shan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajashree-shan/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/rajashree-shan/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rajashree-shan/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/rajashree-shan/Leetcode/tree/master/0415-add-strings) |
+| [0523-continuous-subarray-sum](https://github.com/rajashree-shan/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/rajashree-shan/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
 |  |
