@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/rajashree-shan/Leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/rajashree-shan/Leetcode/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/rajashree-shan/Leetcode/tree/master/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/rajashree-shan/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/rajashree-shan/Leetcode/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/rajashree-shan/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/rajashree-shan/Leetcode/tree/master/1393-capital-gainloss) |
