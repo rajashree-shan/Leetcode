@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/rajashree-shan/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajashree-shan/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/rajashree-shan/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/rajashree-shan/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2043-simple-bank-system](https://github.com/rajashree-shan/Leetcode/tree/master/2043-simple-bank-system) |
 ## Two Pointers
 |  |
