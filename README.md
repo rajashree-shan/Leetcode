@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rajashree-shan/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rajashree-shan/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/rajashree-shan/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/rajashree-shan/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajashree-shan/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rajashree-shan/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/rajashree-shan/Leetcode/tree/master/0136-single-number) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rajashree-shan/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rajashree-shan/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/rajashree-shan/Leetcode/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/rajashree-shan/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajashree-shan/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rajashree-shan/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rajashree-shan/Leetcode/tree/master/0198-house-robber) |
