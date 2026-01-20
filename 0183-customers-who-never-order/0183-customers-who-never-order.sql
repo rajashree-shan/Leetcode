@@ -1,2 +1,2 @@
-/* Write your PL/SQL query statement below */
-select name as Customers from customers  where id not in (select customerId from Orders);
+# Write your MySQL query statement below
+select name as Customers from Customers where id not in(select CustomerId from Orders)
