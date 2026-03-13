@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rajashree-shan/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/rajashree-shan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajashree-shan/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0485-max-consecutive-ones](https://github.com/rajashree-shan/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/rajashree-shan/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rajashree-shan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajashree-shan/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
