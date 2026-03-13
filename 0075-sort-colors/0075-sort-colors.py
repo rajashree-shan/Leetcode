@@ -10,3 +10,4 @@ class Solution:
         nums[:R]=[0]*R
         nums[R:R+W]=[1]*W
         nums[R+W:]=[2]*B
+        
