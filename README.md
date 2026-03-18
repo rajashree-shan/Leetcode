@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rajashree-shan/Leetcode/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/rajashree-shan/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/rajashree-shan/Leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/rajashree-shan/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/rajashree-shan/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0383-ransom-note](https://github.com/rajashree-shan/Leetcode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/rajashree-shan/Leetcode/tree/master/0394-decode-string) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rajashree-shan/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rajashree-shan/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/rajashree-shan/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/rajashree-shan/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/rajashree-shan/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rajashree-shan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/rajashree-shan/Leetcode/tree/master/0383-ransom-note) |
