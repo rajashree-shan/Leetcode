@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rajashree-shan/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/rajashree-shan/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rajashree-shan/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajashree-shan/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Trie
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/rajashree-shan/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rajashree-shan/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2043-simple-bank-system](https://github.com/rajashree-shan/Leetcode/tree/master/2043-simple-bank-system) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajashree-shan/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rajashree-shan/Leetcode/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/rajashree-shan/Leetcode/tree/master/0791-custom-sort-string) |
 | [2043-simple-bank-system](https://github.com/rajashree-shan/Leetcode/tree/master/2043-simple-bank-system) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajashree-shan/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/rajashree-shan/Leetcode/tree/master/0791-custom-sort-string) |
 | [0948-sort-an-array](https://github.com/rajashree-shan/Leetcode/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/rajashree-shan/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajashree-shan/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Counting
 |  |
 | ------- |
