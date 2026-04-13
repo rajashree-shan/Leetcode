@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rajashree-shan/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/rajashree-shan/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/rajashree-shan/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/rajashree-shan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rajashree-shan/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/rajashree-shan/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rajashree-shan/Leetcode/tree/master/0067-add-binary) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rajashree-shan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rajashree-shan/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/rajashree-shan/Leetcode/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/rajashree-shan/Leetcode/tree/master/0227-basic-calculator-ii) |
