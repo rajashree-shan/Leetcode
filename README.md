@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/rajashree-shan/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rajashree-shan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/rajashree-shan/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/rajashree-shan/Leetcode/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajashree-shan/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/rajashree-shan/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0948-sort-an-array](https://github.com/rajashree-shan/Leetcode/tree/master/0948-sort-an-array) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/rajashree-shan/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajashree-shan/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rajashree-shan/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/rajashree-shan/Leetcode/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rajashree-shan/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajashree-shan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rajashree-shan/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/rajashree-shan/Leetcode/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rajashree-shan/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/rajashree-shan/Leetcode/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rajashree-shan/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajashree-shan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rajashree-shan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/rajashree-shan/Leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajashree-shan/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/rajashree-shan/Leetcode/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/rajashree-shan/Leetcode/tree/master/0766-toeplitz-matrix) |
 ## Backtracking
 |  |
@@ -611,4 +615,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rajashree-shan/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/rajashree-shan/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rajashree-shan/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
