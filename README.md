@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rajashree-shan/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/rajashree-shan/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rajashree-shan/Leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/rajashree-shan/Leetcode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/rajashree-shan/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/rajashree-shan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rajashree-shan/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajashree-shan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rajashree-shan/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/rajashree-shan/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rajashree-shan/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/rajashree-shan/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rajashree-shan/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
