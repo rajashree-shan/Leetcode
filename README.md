@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/rajashree-shan/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rajashree-shan/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajashree-shan/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rajashree-shan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/rajashree-shan/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajashree-shan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajashree-shan/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rajashree-shan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/rajashree-shan/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/rajashree-shan/Leetcode/tree/master/0948-sort-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rajashree-shan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Quickselect
 |  |
 | ------- |
