@@ -3,10 +3,10 @@ class Solution:
         count=Counter(nums)
         heap=[]
 
-        for i,j in count.items():
-            heapq.heappush(heap,(j,i))
+        for num,freq in count.items():
+            heapq.heappush(heap,(freq,num))
 
             if len(heap)>k:
                 heapq.heappop(heap)
-        return [num for freq, num in heap]
 
+        return [num for freq,num in heap]
