@@ -1,17 +1,20 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        cnt={}
-        left=0
-        maxi=0
+        count={}
+
+        max_freq=0
         ans=0
+        left=0
+        for right ,char in enumerate(s):
+            count[char]=count.get(char,0)+1
 
-        for right,num in enumerate(s):
-            cnt[num]=cnt.get(num,0)+1
-            maxi=max(maxi,cnt[num])
+            max_freq=max(max_freq,count[char])
 
-            if right-left+1 -maxi > k:
-                cnt[s[left]]-=1
+            while right-left+1 - max_freq > k:
+                count[s[left]]-=1
                 left+=1
-        ans = max(ans, right - left + 1)
 
+            ans=max(ans,right-left+1)
         return ans
+
+ 
