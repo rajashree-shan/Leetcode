@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/rajashree-shan/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rajashree-shan/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajashree-shan/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rajashree-shan/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajashree-shan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajashree-shan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/rajashree-shan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rajashree-shan/Leetcode/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajashree-shan/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rajashree-shan/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Linked List
 |  |
 | ------- |
