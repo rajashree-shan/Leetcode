@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/rajashree-shan/Leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/rajashree-shan/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/rajashree-shan/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/rajashree-shan/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/rajashree-shan/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/rajashree-shan/Leetcode/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/rajashree-shan/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/rajashree-shan/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/rajashree-shan/Leetcode/tree/master/0791-custom-sort-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rajashree-shan/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/rajashree-shan/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajashree-shan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2043-simple-bank-system](https://github.com/rajashree-shan/Leetcode/tree/master/2043-simple-bank-system) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajashree-shan/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rajashree-shan/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajashree-shan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rajashree-shan/Leetcode/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/rajashree-shan/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajashree-shan/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rajashree-shan/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Linked List
