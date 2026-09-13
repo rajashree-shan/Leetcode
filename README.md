@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/rajashree-shan/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/rajashree-shan/Leetcode/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/rajashree-shan/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/rajashree-shan/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajashree-shan/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajashree-shan/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/rajashree-shan/Leetcode/tree/master/1046-last-stone-weight) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/rajashree-shan/Leetcode/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rajashree-shan/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajashree-shan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/rajashree-shan/Leetcode/tree/master/0994-rotting-oranges) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/rajashree-shan/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajashree-shan/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rajashree-shan/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajashree-shan/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/rajashree-shan/Leetcode/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/rajashree-shan/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0994-rotting-oranges](https://github.com/rajashree-shan/Leetcode/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
